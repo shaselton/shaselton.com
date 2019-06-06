@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/shaselton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.shaselton.com
+  * I am shaselton (https://keybase.io/shaselton) on keybase.
+  * I have a public key ASAeh-Uh7Pbawb8aS8FoTBkIR9-0KY8fX8m8GzXyBenAcwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120eff0f9b0e508002d613310447d1c75a1eefa4fe1010b1388f368d21d3dc09dc40a",
+      "host": "keybase.io",
+      "kid": "01201e87e521ecf6dac1bf1a4bc1684c190847dfb4298f1f5fc9bc1b35f205e9c0730a",
+      "uid": "8028b14b4c0e2d6b2b5f541fbb0f0f19",
+      "username": "shaselton"
+    },
+    "merkle_root": {
+      "ctime": 1509312132,
+      "hash": "17f76eeac0a624e10393680edd7ab66d0cc3ed49a5222ceefa63eb69faafd7b7bea25228368e2e246485229e740c24736439a1419fc810972f79fc1ec7e49407",
+      "hash_meta": "fe5782a16ae6d5e6ce77d13ab6e0041a7aa12d58c207c83c760daae6e7783406",
+      "seqno": 1644487
+    },
+    "service": {
+      "hostname": "www.shaselton.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509312141,
+  "expire_in": 504576000,
+  "prev": "8ec513ef54ec1cb24eb66980ec0b9be816762979626a8eab93e8c49283b49920",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHoflIez22sG/GkvBaEwZCEfftCmPH1/JvBs18gXpwHMKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWZmMGY5YjBlNTA4MDAyZDYxMzMxMDQ0N2QxYzc1YTFlZWZhNGZlMTAxMGIxMzg4ZjM2OGQyMWQzZGMwOWRjNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWU4N2U1MjFlY2Y2ZGFjMWJmMWE0YmMxNjg0YzE5MDg0N2RmYjQyOThmMWY1ZmM5YmMxYjM1ZjIwNWU5YzA3MzBhIiwidWlkIjoiODAyOGIxNGI0YzBlMmQ2YjJiNWY1NDFmYmIwZjBmMTkiLCJ1c2VybmFtZSI6InNoYXNlbHRvbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTMxMjEzMiwiaGFzaCI6IjE3Zjc2ZWVhYzBhNjI0ZTEwMzkzNjgwZWRkN2FiNjZkMGNjM2VkNDlhNTIyMmNlZWZhNjNlYjY5ZmFhZmQ3YjdiZWEyNTIyODM2OGUyZTI0NjQ4NTIyOWU3NDBjMjQ3MzY0MzlhMTQxOWZjODEwOTcyZjc5ZmMxZWM3ZTQ5NDA3IiwiaGFzaF9tZXRhIjoiZmU1NzgyYTE2YWU2ZDVlNmNlNzdkMTNhYjZlMDA0MWE3YWExMmQ1OGMyMDdjODNjNzYwZGFhZTZlNzc4MzQwNiIsInNlcW5vIjoxNjQ0NDg3fSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5zaGFzZWx0b24uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwOTMxMjE0MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI4ZWM1MTNlZjU0ZWMxY2IyNGViNjY5ODBlYzBiOWJlODE2NzYyOTc5NjI2YThlYWI5M2U4YzQ5MjgzYjQ5OTIwIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RApJYAYMxaVR1C03QS95kHEJmpk/fhi2QUNGlbhSb4x5m6XGRbZvxvdZEoGV0RqMoakmqEvaQKHzGbUPZ9c1yiA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM6M2tqLbgBP1r4PjNhIWO13HECTESUbNHamZlnTAI2io3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shaselton
+
+==================================================================

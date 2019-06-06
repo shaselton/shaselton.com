@@ -1,0 +1,21 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# donutfinder.io
+- project: Medicare Payment System Modernization
+  role: Director of Payment System Modernization
+  duration: 2018 &mdash; Present
+  # url: "#"
+  description: The Medicare Payment System Modernization (MPSM) allows Centers for Medicare and Medicaid Services (CMS) rapid adoption of new technologies and value-based payment models by modernizing Medicare’s 30-50 year-old claims processing systems—which currently process over $500B in claims, roughly 3.5% of GDP.
+    <ul><li><strong>Vision:</strong> wrote project proposal, set scope, built USDS team; developed project goals along with short and long term vision/strategy.</li>
+    <li><strong>Change Management:</strong> aligned and organized CMS executive leadership into a governance board; executed organizational change management in approach to large project execution within the agency.</li>
+    <li><strong>Contracts:</strong> designed, developed, and wrote project contracting strategy and vehicle that is expected to award over 100MM in contracts.</li>
+    <li><strong>Team Leadership:</strong> hired 11 direct reports that managed over 100 people. Introduced cloud environment to legacy mainframe system, introduced agile methodology to waterfall process, overhauled testing strategies, held weekly one-on-ones with team members.</li></ul>
+
+#Springfield Donut Eater's User Group
+- project: Quality Payment Program
+  role: Technical Lead
+  duration: 2016 &mdash; 2018
+  url: "https://qpp.cms.gov"
+  description: The Quality Payment Program (QPP) is the largest payment reform effort in Medicare’s history. The program began the shift from a fee-for-service model to value-based care.
+
